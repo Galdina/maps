@@ -1,0 +1,7 @@
+*.sqlite
+data/*.csv
+data/*.gz
+data/*.json
+data/*.geojson
+.ipynb_checkpoints/*.ipynb
+jp_files/*.ipynb
